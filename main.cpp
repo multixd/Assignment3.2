@@ -5,7 +5,7 @@
 //  Created by Vincent Liang on 10/24/19.
 //  Copied/Learned how to record time on sort function through:
 //  https://www.geeksforgeeks.org/measure-execution-time-function-cpp/
-// All the sorting algorithms are based off zybooks
+// All the sorting algorithms are based off zybooks sorting
 
 
 #include <cstdlib>
